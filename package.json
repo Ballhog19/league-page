@@ -6,28 +6,12 @@
     "type": "git",
     "url": "git://github.com/nmelhado/league-page.git"
   },
-  "author": {
-    "name": "Nicholas Melhado",
-    "email": "n.melhado@gmail.com",
-    "url": "http://www.nmelhado.com/"
-  },
+  "author": "Nicholas Melhado <n.melhado@gmail.com> (http://www.nmelhado.com/)",
   "contributors": [
-    {
-      "name": "Shane Tjong-Akiet",
-      "url": "https://github.com/shanetj"
-    },
-    {
-      "name": "Scottie Garcia",
-      "url": "https://github.com/scottiegarcia"
-    },
-    {
-      "name": "DOLO",
-      "url": "https://github.com/1600dolo"
-    },
-    {
-      "name": "OldNewsBlues-2",
-      "url": "https://github.com/OldNewsBlues-2"
-    }
+    "Shane Tjong-Akiet (https://github.com/shanetj)",
+    "Scottie Garcia (https://github.com/scottiegarcia)",
+    "DOLO (https://github.com/1600dolo)",
+    "OldNewsBlues-2 (https://github.com/OldNewsBlues-2)"
   ],
   "funding": {
     "type": "buy_me_a_coffee",
@@ -86,5 +70,7 @@
     "fast-xml-parser": "^3.19.0",
     "fuzzyjs": "^5.0.1",
     "svelte": "^3.50.1"
-  }
+  },
+  "description": "<div align=\"center\">   <img alt=\"League Page logo\" src=\"https://storage.googleapis.com/nfl-player-data/League%20Page.png\" width=\"100px\" />",
+  "main": "svelte.config.js"
 }
